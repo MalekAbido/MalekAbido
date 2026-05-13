@@ -2,7 +2,6 @@
 
 ### Computer Science Student & Software Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MalekAbido&label=Profile views&color=0e75b6&style=flat" alt="MalekAbido" /> </p>
 
 - 🔭 I'm currently working on **a Collaborative Itinerary & Group Travel Planner using PHP MVC and MySQL**
 
